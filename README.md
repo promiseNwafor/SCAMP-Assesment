@@ -1,1 +1,1 @@
-# SCAMP-Assesment: a function that displays the fibonacci of a given number
+# SCAMP-Assesment: a function that displays the Fibonacci sequence of a given number
